@@ -10,7 +10,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;c.) Preffered Project and Section to show on the left side.<br>
 5.) Upload to device and enJoy!!<br>
 
-### Some code has been reused from Xinyuan-LilyGO/ LilyGo-EPD-4-7-OWM-Weather-Display
+Some code has been reused from Xinyuan-LilyGO/ LilyGo-EPD-4-7-OWM-Weather-Display
 
 ## Support ToDoist.com to help keep these APIs running!
 
