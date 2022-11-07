@@ -14,10 +14,10 @@ Some code has been reused from Xinyuan-LilyGO/ LilyGo-EPD-4-7-OWM-Weather-Displa
 
 ## Support ToDoist.com to help keep these APIs running!
 
+![ToDoist-Display](images/epd47Front.jpeg)
+
 ![ToDoist-Display](images/todoist.png)
 
 ![ToDoist.com Integrations](images/integ.png)
 
 ![ToDoist.com API Token](images/token.png)
-
-![ToDoist-Display](images/epd47Front.jpeg)
