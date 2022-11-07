@@ -1,5 +1,5 @@
 # ESP32-EPD47-ToDoist-Display<br>
-##LilyGo T5 4.7 ePaper diaplay for Todoist.com
+## LilyGo T5 4.7 ePaper diaplay for Todoist.com
 
 1.) Buy yoursellf LilyGo T5 4.7 EPD47 ePaper display.<br>
 2.) Install Arduino and related libraries. See  Xinyuan-LilyGO /LilyGo-EPD47.<br>
@@ -10,7 +10,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;c.) Preffered Project and Section to show on the left side.<br>
 5.) Upload to device and enJoy!!<br>
 
-###Some code has been reused from Xinyuan-LilyGO/ LilyGo-EPD-4-7-OWM-Weather-Display 
+### Some code has been reused from Xinyuan-LilyGO/ LilyGo-EPD-4-7-OWM-Weather-Display
+
+## Support ToDoist.com to help keep these APIs running!
 
 ![ToDoist-Display](images/epd47Front.jpeg)
 
