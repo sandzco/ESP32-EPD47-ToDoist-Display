@@ -14,6 +14,8 @@
 
 ![ToDoist-Display](images/epd47Front.jpeg)
 
+![ToDoist-Display](images/todoist.png)
+
 ![ToDoist.com Integrations](images/integ.png)
 
 ![ToDoist.com API Token](images/token.png)
