@@ -3,7 +3,7 @@
 
 1.) Buy yoursellf LilyGo T5 4.7 EPD47 ePaper display.<br>
 2.) Install Arduino and related libraries. See  Xinyuan-LilyGO /LilyGo-EPD47.<br>
-3.) Clone this repo.<br>
+3.) Clone this repo(ESP32-EPD47-ToDoist-Display)<br>
 4.) Edit owm_credentials.h <br>
 &nbsp;&nbsp;&nbsp;&nbsp;a.) with your Wifi and password<br>
 &nbsp;&nbsp;&nbsp;&nbsp;b.) API integration key from ToDoist.com<br>
